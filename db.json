@@ -1,0 +1,156 @@
+{
+  "songs": [
+    {
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "album": "A Night at the Opera",
+      "genre": "Rock",
+      "release_year": 1975,
+      "is_favorite": true
+    },
+    {
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "album": "Thriller",
+      "genre": "Pop",
+      "release_year": 1982,
+      "is_favorite": true
+    },
+    {
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "album": "Hotel California",
+      "genre": "Rock",
+      "release_year": 1976,
+      "is_favorite": false
+    },
+    {
+      "title": "Like a Rolling Stone",
+      "artist": "Bob Dylan",
+      "album": "Highway 61 Revisited",
+      "genre": "Folk Rock",
+      "release_year": 1965,
+      "is_favorite": true
+    },
+    {
+      "title": "Imagine",
+      "artist": "John Lennon",
+      "album": "Imagine",
+      "genre": "Pop",
+      "release_year": 1971,
+      "is_favorite": true
+    },
+    {
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "genre": "Grunge",
+      "release_year": 1991,
+      "is_favorite": false
+    },
+    {
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "album": "Thriller",
+      "genre": "Pop",
+      "release_year": 1982,
+      "is_favorite": true
+    },
+    {
+      "title": "What a Wonderful World",
+      "artist": "Louis Armstrong",
+      "album": "What a Wonderful World",
+      "genre": "Jazz",
+      "release_year": 1967,
+      "is_favorite": false
+    },
+    {
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "album": "Hey Jude",
+      "genre": "Rock",
+      "release_year": 1968,
+      "is_favorite": true
+    },
+    {
+      "title": "Stairway to Heaven",
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin IV",
+      "genre": "Rock",
+      "release_year": 1971,
+      "is_favorite": true
+    },
+    {
+      "title": "Purple Haze",
+      "artist": "Jimi Hendrix",
+      "album": "Are You Experienced",
+      "genre": "Rock",
+      "release_year": 1967,
+      "is_favorite": false
+    },
+    {
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "album": "21",
+      "genre": "Soul",
+      "release_year": 2010,
+      "is_favorite": true
+    },
+    {
+      "title": "I Will Always Love You",
+      "artist": "Whitney Houston",
+      "album": "The Bodyguard",
+      "genre": "Pop",
+      "release_year": 1992,
+      "is_favorite": false
+    },
+    {
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "album": "Let It Be",
+      "genre": "Rock",
+      "release_year": 1970,
+      "is_favorite": true
+    },
+    {
+      "title": "Respect",
+      "artist": "Aretha Franklin",
+      "album": "I Never Loved a Man the Way I Love You",
+      "genre": "Soul",
+      "release_year": 1967,
+      "is_favorite": true
+    },
+    {
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "genre": "Synthwave",
+      "release_year": 2019,
+      "is_favorite": true
+    },
+    {
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "album": "Back in Black",
+      "genre": "Rock",
+      "release_year": 1980,
+      "is_favorite": false
+    },
+    {
+      "title": "Shallow",
+      "artist": "Lady Gaga & Bradley Cooper",
+      "album": "A Star Is Born",
+      "genre": "Pop",
+      "release_year": 2018,
+      "is_favorite": true
+    },
+    {
+      "title": "No Woman, No Cry",
+      "artist": "Bob Marley",
+      "album": "Live!",
+      "genre": "Reggae",
+      "release_year": 1975,
+      "is_favorite": true
+    }
+  ]
+}
